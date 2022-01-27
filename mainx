@@ -1,2 +1,1 @@
-d = game:HttpGet("https://raw.githubusercontent.com/alfiebgtbhgh/MasterHub-V3/main/Main.lua")
-    loadstring(d)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/"..game.PlaceId..".lua"))()
